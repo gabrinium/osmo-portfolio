@@ -1,0 +1,19 @@
+* {
+    background-color: #181a22;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* .flex-container div {
+     no use for this one yet 
+} */
+
+.socmed-img {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
